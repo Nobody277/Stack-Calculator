@@ -2,7 +2,7 @@
 This is a Risk of Rain 2 mod that will calculate item stacks so you can get a better idea of what your build can and can not do.
 
 ## Features
-- Will count all of your items stats and give you a total. Such as Range, Targets, Diration etc
+- Will count all of your items stats and give you a total. Such as Range, Targets, Duration etc
 - Total Crit Chance.
 - Total Attack Speed.
 - Total Movement Speed.
