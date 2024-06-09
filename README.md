@@ -20,3 +20,9 @@ Feel free to fork the project and submit pull requests with enhancements.
 
 ## License
 Distributed under the MIT License. See [LICENSE](https://github.com/Nobody277/Stack-Calculator/blob/main/LICENSE) for more information.
+
+## Examples
+![Image1](https://github.com/Nobody277/Stack-Calculator/blob/main/image1.png)
+![Image2](https://github.com/Nobody277/Stack-Calculator/blob/main/image2.png)
+![Image3](https://github.com/Nobody277/Stack-Calculator/blob/main/image3.png)
+![Image4](https://github.com/Nobody277/Stack-Calculator/blob/main/image4.png)
